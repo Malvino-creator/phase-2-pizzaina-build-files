@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phase-2-pizzaina-project.git/static/css/main.4ec10388.css",
+    "main.js": "/phase-2-pizzaina-project.git/static/js/main.0e06be77.js",
+    "static/media/pizzaLeft.jpg": "/phase-2-pizzaina-project.git/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/pizza.jpeg": "/phase-2-pizzaina-project.git/static/media/pizza.21a1098fa87e28d80f37.jpeg",
+    "index.html": "/phase-2-pizzaina-project.git/index.html",
+    "main.4ec10388.css.map": "/phase-2-pizzaina-project.git/static/css/main.4ec10388.css.map",
+    "main.0e06be77.js.map": "/phase-2-pizzaina-project.git/static/js/main.0e06be77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ec10388.css",
+    "static/js/main.0e06be77.js"
+  ]
+}
